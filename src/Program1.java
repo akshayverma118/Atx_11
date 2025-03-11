@@ -14,5 +14,7 @@ public class Program1 {
         }
 
         System.out.println("Reverse String is " + rev1);
+        System.out.println("Reverse String is " + rev1);
+
     }
 }
